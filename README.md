@@ -2,7 +2,7 @@
 <h1 align="center">[💻] >_ THE MIO.js</h1>
 
 <p align="center"><a><img src="https://forum.nobuyoshi.red/members/avatars/3.gif" style="border-radius: 75%;"></a></p>
-<h5 style='text-align: center;' align='center'>Arima Kosei in "Your lie in April"<h5>
+<h6 style='text-align: center;' align='center'>Arima Kosei in "Your lie in April"</h6>
 <h2></h2>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=THEMIODEV&color=blueviolet&style=flat-square">
