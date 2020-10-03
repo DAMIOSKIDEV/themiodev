@@ -1,4 +1,3 @@
-
 <h1 align="center">[💻] >_ THE MIO.js</h1>
 
 <p align="center"><a><img src="https://forum.nobuyoshi.red/members/avatars/3.gif" style="border-radius: 75%;"></a></p>
