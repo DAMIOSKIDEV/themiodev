@@ -1,7 +1,9 @@
+
 <h1 align="center">[💻] >_ THE MIO.js</h1>
 
 <p align="center"><a><img src="https://forum.nobuyoshi.red/members/avatars/3.gif" style="border-radius: 75%;"></a></p>
-
+<h5 style='text-align: center;' align='center'>Arima Kosei in "Your lie in April"<h5>
+<h2></h2>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=THEMIODEV&color=blueviolet&style=flat-square">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Followers&logo=Github&style=flat-square">
@@ -18,7 +20,7 @@
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Hostings%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fhost.nobuyoshi.red">
 </p>
 
-<h2 align="center">Just a new Dev</h2>
+<h2></h2>
 
 <h3 align="center">[👱🏼‍♂️] About me </h3>
 
