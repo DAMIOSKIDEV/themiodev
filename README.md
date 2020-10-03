@@ -21,19 +21,19 @@
 
 <h2 align="center">Just a new Dev</h2>
 
-<h4 align="center">[👱🏼‍♂️] About me: </h4>
+<h3 align="center">[👱🏼‍♂️] About me </h3>
 
 - 📫 How to reach me: **Discord at "[THE MIO.js#4545](https://discord.com/users/181028703004786688)"**
 - <img src="https://images.emojiterra.com/openmoji/v12.2/512px/1f1eb-1f1f7.png" alt="html5" width="20" height="25"/>  What language am I speaking: **French (as mother language), English, German and Russian**
 - 1️⃣6️⃣ How old I am: I'm **16 Years Old**
 
-<h4 align="center">[📅] Projects</h4>
+<h3 align="center">[📅] Projects</h3>
 
 - 🔭 I’m currently working on a **Discord Nitro Sniper** and **Nobuyoshi**
 - 🌱 I’m currently learning **NodeJS**
 - 💬 Ask me about **[Nobuyoshi Forum](https://nobuyoshi.red)** and **[Nobuyoshi Hostings](https://host.nobuyoshi.red)**
 
-<h4 align="center">[📚] Tools, Languages and OS</h4>
+<h3 align="center">[📚] Tools, Languages and OS</h3>
 
 - __Languages:__
 <p align="center">
@@ -64,7 +64,7 @@
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 </p>
 
-<h4 align="center">[📈] GitHub Stats: </h4>
+<h3 align="center">[📈] GitHub Stats </h3>
 
 <p align="center"><a href="https://github.com/THEMIODEV">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=THEMIODEV&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="THEMIODEV's stats" />
