@@ -4,19 +4,19 @@
 <h6 style='text-align: center;' align='center'>Arima Kosei in "Your lie in April"</h6>
 <h2></h2>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=THEMIODEV&color=blueviolet&style=flat-square">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Followers&logo=Github&style=flat-square">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Stars&logo=github&style=flat-square">
+<a href="https://github.com/THEMIODEV"><img src="https://komarev.com/ghpvc/?username=THEMIODEV&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/THEMIODEV?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Followers&logo=Github&style=flat-square"></a>
+<a href="https://github.com/THEMIODEV?tab=repositories"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Stars&logo=github&style=flat-square"></a>
 </p>
 <p align="center">
-<img href="https://discord.gg/EN7JYdG" alt="Discord" src="https://img.shields.io/discord/558028048063135801?color=7289DA&label=Discord%20Server&logo=discord&style=for-the-badge">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/themioytb?color=blue&logo=twitter&style=for-the-badge">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/THEMIOENLIVE?color=blueviolet&label=THEMIOENLIVE&logo=twitch&style=for-the-badge">
+<a href="https://discord.gg/EN7JYdG"><img alt="Discord" src="https://img.shields.io/discord/558028048063135801?color=7289DA&label=Discord%20Server&logo=discord&style=for-the-badge"></a>
+<a href="https://twitter.com/THEMIOYTB"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/themioytb?color=blue&logo=twitter&style=for-the-badge"></a>
+<a href="https://www.twitch.tv/themioenlive/"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/THEMIOENLIVE?color=blueviolet&label=THEMIOENLIVE&logo=twitch&style=for-the-badge"></a>
 </p>
 <p align="center">
-<img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fnobuyoshi.red">
-<img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Forum%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fforum.nobuyoshi.red">
-<img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Hostings%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fhost.nobuyoshi.red">
+<a href="https://nobuyoshi.red"><img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Global%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fnobuyoshi.red"></a>
+<a href="https://forum.nobuyoshi.red"><img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Forum%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fforum.nobuyoshi.red"></a>
+<a href="https://host.nobuyoshi.red"><img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Hostings%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fhost.nobuyoshi.red"></a>
 </p>
 
 <h2></h2>
