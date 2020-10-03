@@ -52,6 +52,7 @@
 <img src="https://devicon.dev/devicon.git/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 </p>
 
