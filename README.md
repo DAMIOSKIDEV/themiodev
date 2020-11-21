@@ -23,7 +23,7 @@
 
 <h3 align="center">[👱🏼‍♂️] About me </h3>
 
-- 📫 How to reach me: **Discord at "[THE MIO.js#4545](https://discord.com/users/181028703004786688)"**
+- 📫 How to reach me: **Discord at "[Dopalinski#4545](https://discord.com/users/181028703004786688)"**
 - <img src="https://images.emojiterra.com/openmoji/v12.2/512px/1f1eb-1f1f7.png" alt="html5" width="20" height="25"/>  What language am I speaking: **French (as mother language), English, German and Russian**
 - 1️⃣6️⃣ How old I am: I'm **16 Years Old**
 
