@@ -1,4 +1,4 @@
-<h1 align="center">[💻] >_ THE MIO.js</h1>
+<h1 align="center">[💻] >_ DAMIOSKI.js</h1>
 
 <p align="center"><a><img src="https://forum.nobuyoshi.red/members/avatars/3.gif" style="border-radius: 75%;"></a></p>
 <h6 style='text-align: center;' align='center'>Arima Kosei in "Your lie in April"</h6>
